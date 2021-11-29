@@ -1,7 +1,7 @@
 <?php
 
 /**
- * .retorna el puntaje
+ * .retorna el puntaje (PRUEBA DE MODIFICACION)
  * @param int 
  * @param string
  * @return int
