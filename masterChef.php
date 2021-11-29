@@ -1,7 +1,7 @@
 <?php
 
 /**
- * .retorna el puntaje (PRUEBA DE MODIFICACION)
+ * .retorna el puntaje (PRUEBA DE MODIFICACION desde VS CODE)
  * @param int 
  * @param string
  * @return int
