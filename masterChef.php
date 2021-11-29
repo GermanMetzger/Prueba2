@@ -1,7 +1,7 @@
 <?php
 
 /**
- * .retorna el puntaje (PRUEBA DE MODIFICACION desde VS CODE)
+ * .retorna el puntaje (MODIFICADO DESDE VS CODE CON GERMY)
  * @param int 
  * @param string
  * @return int
